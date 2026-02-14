@@ -4,6 +4,7 @@ Release/
 build/
 .settings/
 .mxproject
+*.launch
 *.elf
 *.bin
 *.hex
