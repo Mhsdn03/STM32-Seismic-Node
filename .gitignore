@@ -1,0 +1,17 @@
+# STM32CubeIDE / Eclipse specific
+Debug/
+Release/
+build/
+.settings/
+.mxproject
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.su
+
+# OS specific
+.DS_Store
+Thumbs.db
